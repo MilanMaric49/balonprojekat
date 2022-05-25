@@ -1,0 +1,14 @@
+﻿body {
+    background-color: cadetblue;
+    font-family: 'HoloLens MDL2 Assets';
+    font-size: 18px;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right:50px;
+    margin-bottom:50px;
+}
